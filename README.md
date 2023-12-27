@@ -18,7 +18,7 @@ This Node.js application automates the process of responding to emails in the us
 ## GETTING STARTED
 
 1. Clone the repository
-   git clone https://github.com/your-username/gmail-autoresponder.git
+   git clone https://github.com/anuragsingh1409/OpeninApp-Assignment.git
 
 2. Install dependencies 
    npm install
