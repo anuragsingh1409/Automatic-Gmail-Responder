@@ -24,10 +24,10 @@ This Node.js application automates the process of responding to emails in the us
    npm install
 
 3. Set up .env file
-    -**CLIENT_ID=your_client_id**
-    -**CLEINT_SECRET=your_client_secret**
-    -**REDIRECT_URI=your_redirect_uri**
-    -**REFRESH_TOKEN=your_refresh_token**
+    - **CLIENT_ID=your_client_id**
+    - **CLEINT_SECRET=your_client_secret**
+    - **REDIRECT_URI=your_redirect_uri**
+    - **REFRESH_TOKEN=your_refresh_token**
 
 4. Run the application
     nodemon index.js or node index.js
